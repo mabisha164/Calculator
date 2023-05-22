@@ -1,0 +1,20 @@
+.text-center{
+    text-align: center;
+}
+.bg-burlywood{
+background: burlywood;
+}
+
+.mx-auto{
+    margin: auto;
+}
+.flex{
+  display: flex;  
+}
+.flex-col{
+    flex-direction: column;
+
+}
+.item-center{
+    align-items: center;
+}
